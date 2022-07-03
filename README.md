@@ -1,6 +1,6 @@
 # IJ.Start.Canon Setup || Setup Canon IJ Printer 
 
- [![canon.com/ijsetup](Get-Started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+ [![canon.com/ijsetup](Get-Started.png)](https://hbomaxtvv.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
  
  
 The [Ij.start.canon](https://ijcanonprint.github.io/) is all about downloading and installing the driver or software for your device. The driver is the link between the device and the Canon Ij printer. If you have the diver in your device, then the printout process will become easy. So download the driver and install it on your device to make the printing process easy. 
